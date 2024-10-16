@@ -9,11 +9,22 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 ### Types of linked lists
 
 1. Singly linked lists
-  - each node contains data and a pointer to the next node
-  - traversal is unidirectional, only forward
+    - each node contains data and a pointer to the next node
+    - traversal is unidirectional, only forward
 2. Doubly linked lists
-  - each node contains data an two pointers: one to the next node and one to the previous node
-  - traversal is bidirectional, forward and backward
+    - each node contains data an two pointers: one to the next node and one to the previous node
+    - traversal is bidirectional, forward and backward
 3. Circular linked lists
-  - the last node is pointed to the head, forming a circle
-  - can be singly or doubly linked
+    - the last node is pointed to the head, forming a circle
+    - can be singly or doubly linked
+
+### Advantages
+
+    - the best advantage of a linked list is that it can grow and shrink in size as needed
+    - the memory is allocated dynamicaly, which means the size is variable
+    - adding or deleting an element is more efficient because is does not require shifting element like in arrays, especialy at the begining or at the end of a linked list
+
+### Disavantages
+
+    - require extra memory for saving each node pointer
+    - accsessing an element by index (O(n))is slower compare to arrays (O(1))
