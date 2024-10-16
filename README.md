@@ -42,6 +42,6 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
    - search(value)
 4. Utility methods
    - [getLength()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#getlength)
-   - display()
+   - [display()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--display)
    - reverse()
    - isEmpty()
