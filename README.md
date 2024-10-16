@@ -30,7 +30,7 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 - accsessing an element by index (O(n))is slower compare to arrays (O(1))
 
 ### Methods
-#### *Singly Linked List*
+#### For a *Singly Linked List*
 
 1. Insertion methods
    - append(value)
@@ -45,4 +45,3 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
    - display()
    - reverse()
    - isEmpty()
-   
