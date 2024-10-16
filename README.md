@@ -8,7 +8,7 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 
 ### Types of linked lists
 
-1. Singly linked lists
+[1. Singly linked lists](https://github.com/SamiIonesi/Singly_Linked_Lists/tree/main)
     - each node contains data and a pointer to the next node
     - traversal is unidirectional, only forward
 2. Doubly linked lists
