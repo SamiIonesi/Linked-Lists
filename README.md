@@ -20,11 +20,11 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 
 ### Advantages
 
-    - the best advantage of a linked list is that it can grow and shrink in size as needed
-    - the memory is allocated dynamicaly, which means the size is variable
-    - adding or deleting an element is more efficient because is does not require shifting element like in arrays, especialy at the begining or at the end of a linked list
+- the best advantage of a linked list is that it can grow and shrink in size as needed
+- the memory is allocated dynamicaly, which means the size is variable
+- adding or deleting an element is more efficient because is does not require shifting element like in arrays, especialy at the begining or at the end of a linked list
 
 ### Disavantages
 
-    - require extra memory for saving each node pointer
-    - accsessing an element by index (O(n))is slower compare to arrays (O(1))
+- require extra memory for saving each node pointer
+- accsessing an element by index (O(n))is slower compare to arrays (O(1))
