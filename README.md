@@ -28,3 +28,21 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 
 - require extra memory for saving each node pointer
 - accsessing an element by index (O(n))is slower compare to arrays (O(1))
+
+### Methods
+#### *Singly Linked List*
+
+1. Insertion methods
+   - append(value)
+   - prepand(value)
+   - insert(value)
+2. Deletion methods
+   - delete
+3. Search methods
+   - search(value)
+4. Utility methods
+   - getLength()
+   - display()
+   - reverse()
+   - isEmpty()
+   
