@@ -32,15 +32,15 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 ### Methods
 #### For a *Singly Linked List*
 
-1. Insertion methods
+##### 1. Insertion methods
    - append(value)
    - prepand(value)
    - insert(value)
-2. Deletion methods
+##### 2. Deletion methods
    - delete
-3. Search methods
+##### 3. Search methods
    - search(value)
-4. Utility methods
+##### 4. Utility methods
    - [getLength()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#getlength)
    - [display()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--display)
    - [recursiveDisplay(Node)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--recursivedisplaynode)
