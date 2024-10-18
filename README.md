@@ -32,18 +32,18 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 ### Methods
 #### For a *Singly Linked List*
 
-    ##### 1. Insertion methods
-       - append(value)
-       - prepand(value)
-       - insert(value)
-    ##### 2. Deletion methods
-       - delete
-    ##### 3. Search methods
-       - search(value)
-    ##### 4. Utility methods
-       - [getLength()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#getlength)
-       - [display()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--display)
-       - [recursiveDisplay(Node)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--recursivedisplaynode)
-       - [create(array, sizeOfArray)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--createarray-sizeofarray)
-       - reverse()
-       - isEmpty()
+##### 1. Insertion methods
+   - append(value)
+   - prepand(value)
+   - insert(value)
+##### 2. Deletion methods
+   - delete
+##### 3. Search methods
+   - search(value)
+##### 4. Utility methods
+   - [getLength()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#getlength)
+   - [display()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--display)
+   - [recursiveDisplay(Node)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--recursivedisplaynode)
+   - [create(array, sizeOfArray)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--createarray-sizeofarray)
+   - reverse()
+   - isEmpty()
