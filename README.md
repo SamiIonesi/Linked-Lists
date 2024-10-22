@@ -47,3 +47,5 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
    - [create(array, sizeOfArray)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--createarray-sizeofarray)
    - reverse()
    - isEmpty()
+   - [countNodes()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--sumofnodesvalue)
+   - [sumOfNodesValue()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--sumofnodesvalue)
