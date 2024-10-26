@@ -39,7 +39,7 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 #### 2. Deletion methods
    - delete
 #### 3. Search methods
-   - search(value)
+   - [linearSearch(key)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--linearsearchkey)
 #### 4. Utility methods
    - [getLength()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#getlength)
    - [display()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--display)
