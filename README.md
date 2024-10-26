@@ -33,7 +33,7 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 ### For a *Singly Linked List*
 
 #### 1. Insertion methods
-   - append(value)
+   - [append(value)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--appendvalue)
    - prepand(value)
    - insert(value)
 #### 2. Deletion methods
