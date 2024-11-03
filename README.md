@@ -33,8 +33,8 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
 ### For a *Singly Linked List*
 
 #### 1. Insertion methods
-   ##### - [append(value)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--appendvalue)
-   ##### - [prepand(value)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--prepandvalue)
+   - [append(value)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--appendvalue)
+   - [prepand(value)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--prepandvalue)
    - [insert(value, index)](https://github.com/SamiIonesi/Singly_Linked_Lists?tab=readme-ov-file#--insertvalue-index)
 #### 2. Deletion methods
    - [delete(index)](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--deleteindex)
