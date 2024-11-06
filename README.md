@@ -52,3 +52,4 @@ Linked lists store elements in sequential order, but not necessarily in contiguo
    - [countNodes()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--sumofnodesvalue)
    - [sumOfNodesValue()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--sumofnodesvalue)
    - [maxElement()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--maxelement)
+   - [isSorted()](https://github.com/SamiIonesi/Singly_Linked_Lists/blob/main/README.md#--issorted)
